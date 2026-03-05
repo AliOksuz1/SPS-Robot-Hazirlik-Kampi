@@ -12,8 +12,8 @@ Bu depo, ekibimizin geliştireceği büyük **"SPS Etkileşimli Robot"** projesi
 
 | Hafta | Tema | Grup 1 (Veri Bilimi & ML) | Grup 2 (Sistem, Algı & Donanım) |
 | :--- | :--- | :--- | :--- |
-| **1** | **Python Temelleri I** | **ORTAK:** Değişkenler, Veri Tipleri, Sayısal Mantık, Thonny IDE Kurulumu. | **ORTAK:** Değişkenler, Veri Tipleri, Sayısal Mantık, Thonny IDE Kurulumu. |
-| **2** | **Python Temelleri II** | **ORTAK:** Listeler, Sözlükler, Fonksiyonlar, Karar Mekanizmaları (`if/else`) ve Hata Yönetimi. | **ORTAK:** Listeler, Sözlükler, Fonksiyonlar, Karar Mekanizmaları (`if/else`) ve Hata Yönetimi. |
+| **1** | **Python Temelleri I** | **ORTAK:** Değişkenler, Veri Tipleri (str, int, float, bool), Temel Karar Yapıları (`if/else`), Thonny IDE Kurulumu. | **ORTAK:** Değişkenler, Veri Tipleri, Temel Karar Yapıları, Thonny IDE Kurulumu ve Firmware Yükleme. |
+| **2** | **Python Temelleri II** | **ORTAK:** Listeler, Sözlükler, Döngüler (`for/while`), Fonksiyonlar, Hata Yönetimi (`try-except`) ve OOP Giriş. | **ORTAK:** Listeler, Sözlükler, Döngüler, Fonksiyonlar, Hata Yönetimi ve Sınıf (Class) Yapısı. |
 | **3** | **Matematiksel Temel** | **NumPy:** Veri Seti Manipülasyonu, Matris İşlemleri ve İstatistik. | **NumPy:** Görüntü Matrisleri. **MicroPython:** `machine`, `time`, `utime` modülleri. |
 | **4** | **Veri ve Analiz** | **Pandas:** Tablo Yönetimi, Veri Temizleme. **Matplotlib/Seaborn:** Görselleştirme. | **Pandas:** Sensör Kayıt Analizi. **MicroPython:** `network`, `usocket`, `ujson`. |
 | **5** | **Zeka ve Algı** | **Scikit-learn:** Regresyon, Sınıflandırma, Model Eğitimi (Zeka Katmanı). | **OpenCV & Mediapipe:** Obje Tespiti, El İzleme ve Poz Tahmini (Algı Katmanı). |
